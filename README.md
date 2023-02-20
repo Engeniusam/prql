@@ -91,7 +91,7 @@ To stay in touch with PRQL:
   inspiring others to use it.
 - See the [development][development] documentation for PRQL. It's easy to get
   started — the project can be built in a couple of commands, and we're a really
-  friendly community!
+  friendly community.
 
 ## Explore
 
